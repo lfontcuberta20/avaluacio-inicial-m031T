@@ -92,6 +92,7 @@ numerop1 = numero * 1
 numerop2 = numero * 2
 numerop3 = numero * 3
 print("numero:";numero\n;"Por 1";numerop1\n;"Por 2";numerop2\n;"Por 3";numerop3)
+```
 
 10. Quin és el resultat d'executar el següent programa?
 
