@@ -75,7 +75,7 @@
 
     (Escriu la resposta al darrere del full)
     
-    ```python
+```python
 altura = input(int())
 base = input(int())
 area = base * altura
@@ -86,7 +86,7 @@ print(area)
 
     (Escriu la resposta al darrere del full)
     
-    ```python
+```python
 numero = input(int())
 numerop1 = numero * 1
 numerop2 = numero * 2
